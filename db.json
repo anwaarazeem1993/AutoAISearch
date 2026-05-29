@@ -1,0 +1,315 @@
+{
+  "settings": {
+    "keywords": [
+      "QC Inspector",
+      "Quality Control Inspector",
+      "Quality Assurance Inspector"
+    ],
+    "platforms": {
+      "linkedin": {
+        "enabled": true,
+        "username": "anwaarazeem1993@gmail.com"
+      },
+      "indeed": {
+        "enabled": true,
+        "username": "anwaarazeem@enigneer.com"
+      },
+      "bayt": {
+        "enabled": true,
+        "username": "anwaarazeem@enigneer.com"
+      },
+      "naukrigulf": {
+        "enabled": true,
+        "username": "anwaarazeem@enigneer.com"
+      }
+    },
+    "filters": {
+      "location": "London, UK (Remote or Hybrid)",
+      "country": "United Kingdom",
+      "jobType": [
+        "Full-time",
+        "Remote"
+      ],
+      "experienceLevel": [
+        "Mid-Level",
+        "Senior"
+      ],
+      "salaryRange": [
+        60000,
+        110000
+      ]
+    },
+    "scanFrequency": "1h",
+    "autoApply": false,
+    "maxApplicationsPerDay": 5,
+    "coverLetterPrompt": "Please write a professional, engaging, and brief cover letter of about 250 words that highlights my experience as a Quality Control (QC) Inspector, focusing on QA/QC inspections, blueprint reading, safety standards compliance, and precise technical reporting.",
+    "resumeFileName": "Anwaar_Azeem_QC_Inspector_CV.pdf",
+    "resumeText": "ANWAAR AZEEM\nEmail: anwaarazeem1993@gmail.com | Phone: +44 7700 900077 | London, UK\n\nPROFESSIONAL SUMMARY:\nHighly precise and detail-oriented Quality Control (QC) Inspector with over 5 years of hands-on experience in manufacturing, industrial assembly, and technical product inspections. Proven expertise in implementing rigorous QA/QC inspection regimes, ensuring absolute compliance with ISO 9001, AWS, and ASTM standards. Skilled in blueprint reading, precision measurement, and non-destructive testing (NDT). Strong track record of drafting detailed Non-Conformance Reports (NCR) and collaborating with engineering teams to minimize defects and optimize yield.\n\nCORE COMPETENCIES:\n- Quality Assurance & Quality Control (QA/QC) Processes\n- Technical Blueprint & CAD Drawing Interpretation\n- Technical Dimension Inspection (Calipers, Micrometers, Gauges)\n- Standard compliance: ISO 9001, ASME, ASTM, AWS D1.1\n- Non-Destructive Testing (NDT) (Liquid Penetrant Level I/II)\n- Defect Analysis, NCR Logging, and CAPA Root Cause Resolution\n- Calibration of Precision Instrumentation\n- Technical Quality Report Generation & Audit Support\n\nPROFESSIONAL EXPERIENCE:\nSenior QC Inspector | Apex Industrial Solutions, London, UK | 2023 - Present\n- Conduct thorough dimensional and visual inspections of mechanical components and structural fabrications checking alignment, tolerances, and weld safety in compliance with ASTM and AWS standards.\n- Reduced manufacturing defect rates by 18% through the implementation of a real-time statistical process control (SPC) analysis dashboard.\n- Authored, logged, and resolved over 250 NCRs (Non-Conformance Reports), conducting root-cause reviews under ISO 9001 protocols.\n- Coordinated closely with production managers to conduct pre-shipment inspections, securing 100% on-time product dispatch compliance.\n\nQuality Control Inspector | Vanguard Engineering, Manchester, UK | 2021 - 2023\n- Executed component inspections utilizing laser trackers, optical comparators, micrometers, and ultrasonic thickness gauges.\n- Review and verified incoming supplier material certifications, ensuring conformance with client contract specifications.\n- Assisted in internal quality system audits, preparing quality trackers and verifying gage calibration schedules.\n- Trained 4 new technicians on technical inspection procedures, safety compliance, and documentation frameworks.\n\nEDUCATION & CREDENTIALS:\n- Bachelor of Science in Mechanical/Industrial Engineering (or equivalent technical diploma)\n- ASQ Certified Quality Inspector (CQI)\n- AWS Certified Welding Inspector (CWI) - Candidate/Preparation\n- Trained in ISO 9001 Quality Management Systems"
+  },
+  "applications": [
+    {
+      "id": "app_1780051569244_84fh3",
+      "title": "Quality Assurance Inspector",
+      "company": "Quantum Ledger Group",
+      "platform": "linkedin",
+      "dateApplied": "2026-05-29T10:46:09.244Z",
+      "status": "In Review",
+      "url": "https://linkedin.com/jobs/view/sim_146945",
+      "location": "London, UK (Remote or Hybrid)",
+      "salary": "Competitive",
+      "jobType": "Full-time",
+      "notes": "Discovered and surfaced by AI. Review, customize, and finalize application submit!"
+    },
+    {
+      "id": "app_1780051569244_8q694",
+      "title": "Quality Control Inspector",
+      "company": "Stellar Cloud Solutions",
+      "platform": "indeed",
+      "dateApplied": "2026-05-29T10:46:09.244Z",
+      "status": "In Review",
+      "url": "https://indeed.com/viewjob?jk=sim_750575",
+      "location": "Fully Remote (UK)",
+      "salary": "£72,000",
+      "jobType": "Remote",
+      "notes": "Discovered and surfaced by AI. Review, customize, and finalize application submit!"
+    },
+    {
+      "id": "app_1780051569244_cp82h",
+      "title": "QC Inspector",
+      "company": "Vortex Digital Technologies",
+      "platform": "linkedin",
+      "dateApplied": "2026-05-29T10:46:09.244Z",
+      "status": "In Review",
+      "url": "https://linkedin.com/jobs/view/sim_91622",
+      "location": "London, UK (Remote or Hybrid)",
+      "salary": "£83,000 - £112,000",
+      "jobType": "Full-time",
+      "notes": "Discovered and surfaced by AI. Review, customize, and finalize application submit!"
+    },
+    {
+      "id": "app_1",
+      "title": "Senior React Engineer",
+      "company": "TechNexus Global",
+      "platform": "linkedin",
+      "dateApplied": "2026-05-28T14:30:00Z",
+      "status": "Interview",
+      "url": "https://www.linkedin.com/jobs/view/1029381923",
+      "location": "London, UK (Hybrid)",
+      "salary": "£85,000 - £95,000",
+      "jobType": "Full-time",
+      "coverLetter": "Dear Hiring Team,\n\nI am writing to express my eager interest in the Senior React Engineer position at TechNexus Global. With over 5 years of experience architecting UI projects and writing type-safe modern react components, I am confident I will be a great addition to your squad.",
+      "notes": "First stage interview scheduled with Engineering Manager on June 2nd."
+    },
+    {
+      "id": "app_2",
+      "title": "Frontend Developer (Remote)",
+      "company": "SaaSify Systems",
+      "platform": "indeed",
+      "dateApplied": "2026-05-27T09:15:00Z",
+      "status": "In Review",
+      "url": "https://www.indeed.com/viewjob?jk=7a8b9c1d2e3f4g",
+      "location": "Remote UK",
+      "salary": "£65k - £75k",
+      "jobType": "Remote",
+      "coverLetter": "Dear Recruiter,\n\nI specialize in crafting high-efficiency React applications using TypeScript and Tailwind CSS. The description of SaaSify Systems' web-builder platform perfectly matches my background developing drag-and-drop engines.",
+      "notes": "Awaiting recruiter response. Job statistics showed over 150 applicants."
+    },
+    {
+      "id": "app_3",
+      "title": "Fullstack Engineer (React & TS)",
+      "company": "FinFlow Solutions",
+      "platform": "linkedin",
+      "dateApplied": "2026-05-25T11:00:00Z",
+      "status": "Applied",
+      "url": "https://www.linkedin.com/jobs/view/283749102",
+      "location": "London City Office",
+      "salary": "£90,000",
+      "jobType": "Full-time",
+      "notes": "Auto-submitted by AutoAISearch. Cover letter synthesized using engineering profile."
+    },
+    {
+      "id": "app_4",
+      "title": "UI Developer",
+      "company": "Creative Digital Studio",
+      "platform": "indeed",
+      "dateApplied": "2026-05-22T16:45:00Z",
+      "status": "Rejected",
+      "url": "https://www.indeed.com/viewjob?jk=9821367412",
+      "location": "London, UK",
+      "salary": "£55,000 - £60,000",
+      "jobType": "Contract",
+      "notes": "Received automated rejection mail. They filled the position internally."
+    }
+  ],
+  "logs": [
+    {
+      "id": "log_1780051619247",
+      "timestamp": "2026-05-29T10:46:59.247Z",
+      "level": "success",
+      "message": "Credentials updated securely and encrypted (AES-256 simulation) for: INDEED"
+    },
+    {
+      "id": "log_1780051619159",
+      "timestamp": "2026-05-29T10:46:59.159Z",
+      "level": "success",
+      "message": "Credentials updated securely and encrypted (AES-256 simulation) for: INDEED"
+    },
+    {
+      "id": "log_1780051619102",
+      "timestamp": "2026-05-29T10:46:59.102Z",
+      "level": "success",
+      "message": "Credentials updated securely and encrypted (AES-256 simulation) for: INDEED"
+    },
+    {
+      "id": "log_1780051618848",
+      "timestamp": "2026-05-29T10:46:58.848Z",
+      "level": "success",
+      "message": "Credentials updated securely and encrypted (AES-256 simulation) for: INDEED"
+    },
+    {
+      "id": "log_1780051616337",
+      "timestamp": "2026-05-29T10:46:56.337Z",
+      "level": "success",
+      "message": "Credentials updated securely and encrypted (AES-256 simulation) for: INDEED"
+    },
+    {
+      "id": "log_toggle_1780051590319",
+      "timestamp": "2026-05-29T10:46:30.319Z",
+      "level": "success",
+      "message": "Autonomous agent searching activated. Ready to auto-scan matching boards hourly."
+    },
+    {
+      "id": "log_surface_1780051569244_0.4054195276195267",
+      "timestamp": "2026-05-29T10:46:09.244Z",
+      "level": "success",
+      "message": "✨ [Semi-Auto Agent] Surfaced new job: \"Quality Assurance Inspector\" at \"Quantum Ledger Group\". Saved to Review status for your feedback."
+    },
+    {
+      "id": "log_surface_1780051569244_0.1257096502784587",
+      "timestamp": "2026-05-29T10:46:09.244Z",
+      "level": "success",
+      "message": "✨ [Semi-Auto Agent] Surfaced new job: \"Quality Control Inspector\" at \"Stellar Cloud Solutions\". Saved to Review status for your feedback."
+    },
+    {
+      "id": "log_surface_1780051569244_0.8925723562448251",
+      "timestamp": "2026-05-29T10:46:09.244Z",
+      "level": "success",
+      "message": "✨ [Semi-Auto Agent] Surfaced new job: \"QC Inspector\" at \"Vortex Digital Technologies\". Saved to Review status for your feedback."
+    },
+    {
+      "id": "log_1780051569244_api_err",
+      "timestamp": "2026-05-29T10:46:09.244Z",
+      "level": "error",
+      "message": "⚠️ Gemini Grounded AI Search failed or key was invalid. Falling back to local offline search."
+    },
+    {
+      "id": "log_1780051568987_ai_search",
+      "timestamp": "2026-05-29T10:46:08.987Z",
+      "level": "info",
+      "message": "🧠 Querying Gemini model with Google Search Grounding to identify active jobs..."
+    },
+    {
+      "id": "log_1780051568987_search",
+      "timestamp": "2026-05-29T10:46:08.987Z",
+      "level": "info",
+      "message": "🔍 Active filters - Keywords: [QC Inspector, Quality Control Inspector, Quality Assurance Inspector], Location: \"London, UK (Remote or Hybrid)\""
+    },
+    {
+      "id": "log_1780051568987_start",
+      "timestamp": "2026-05-29T10:46:08.987Z",
+      "level": "info",
+      "message": "🤖 Manual agent search triggered. Initializing scraper engine..."
+    },
+    {
+      "id": "log_toggle_1780051551586",
+      "timestamp": "2026-05-29T10:45:51.586Z",
+      "level": "info",
+      "message": "Autonomous agent paused. Crawler background timers suspended."
+    },
+    {
+      "id": "log_toggle_1780051551581",
+      "timestamp": "2026-05-29T10:45:51.581Z",
+      "level": "success",
+      "message": "Autonomous agent searching activated. Ready to auto-scan matching boards hourly."
+    },
+    {
+      "id": "log_toggle_1780051061629",
+      "timestamp": "2026-05-29T10:37:41.629Z",
+      "level": "info",
+      "message": "Autonomous agent paused. Crawler background timers suspended."
+    },
+    {
+      "id": "log_toggle_1780051061038",
+      "timestamp": "2026-05-29T10:37:41.038Z",
+      "level": "success",
+      "message": "Autonomous agent searching activated. Ready to auto-scan matching boards hourly."
+    },
+    {
+      "id": "log_toggle_1780051060953",
+      "timestamp": "2026-05-29T10:37:40.953Z",
+      "level": "info",
+      "message": "Autonomous agent paused. Crawler background timers suspended."
+    },
+    {
+      "id": "log_toggle_1780051060945",
+      "timestamp": "2026-05-29T10:37:40.945Z",
+      "level": "success",
+      "message": "Autonomous agent searching activated. Ready to auto-scan matching boards hourly."
+    },
+    {
+      "id": "log_toggle_1780051060332",
+      "timestamp": "2026-05-29T10:37:40.332Z",
+      "level": "info",
+      "message": "Autonomous agent paused. Crawler background timers suspended."
+    },
+    {
+      "id": "log_1",
+      "timestamp": "2026-05-29T08:00:00Z",
+      "level": "info",
+      "message": "AutoAISearch core scheduler initialized. Scan frequency configured to: every 1 hour."
+    },
+    {
+      "id": "log_2",
+      "timestamp": "2026-05-29T08:00:02Z",
+      "level": "success",
+      "message": "Loaded target platforms credentials successfully. (LinkedIn: Connected, Indeed: Connected)."
+    },
+    {
+      "id": "log_3",
+      "timestamp": "2026-05-29T09:00:00Z",
+      "level": "info",
+      "message": "Scheduled agent scan cycle started."
+    },
+    {
+      "id": "log_4",
+      "timestamp": "2026-05-29T09:00:15Z",
+      "level": "info",
+      "message": "[Indeed Agent] Searching for matching jobs in 'London, UK' with keyword 'React Developer'..."
+    },
+    {
+      "id": "log_5",
+      "timestamp": "2026-05-29T09:01:10Z",
+      "level": "success",
+      "message": "[Indeed Agent] Discovered 4 potential matches. No new duplicates found."
+    },
+    {
+      "id": "log_6",
+      "timestamp": "2026-05-29T09:01:20Z",
+      "level": "info",
+      "message": "[LinkedIn Agent] Simulating browser sessions safely to crawl matching listings..."
+    },
+    {
+      "id": "log_7",
+      "timestamp": "2026-05-29T09:02:45Z",
+      "level": "success",
+      "message": "[LinkedIn Agent] Discovered 6 matches. Identified 2 high-matching listings based on resume matching."
+    }
+  ],
+  "agentStatus": {
+    "active": true,
+    "lastRun": "2026-05-29T10:46:09.244Z",
+    "totalAppliedToday": 1,
+    "totalAppliedThisWeek": 3,
+    "nextRun": "2026-05-29T11:46:30.319Z"
+  }
+}

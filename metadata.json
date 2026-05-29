@@ -1,0 +1,6 @@
+{
+  "name": "AutoAISearch",
+  "description": "An AI-powered job search and semi-autonomous application agent control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
