@@ -703,8 +703,8 @@ async function startServer() {
   });
 }
 
-// Only start the listener if not in serverless environment
-if (!isVercel) {
+// Only start the listener if not in serverless environment (always start in development)
+if (!isVercel || process.env.NODE_ENV !== "production") {
   startServer();
 }
 
