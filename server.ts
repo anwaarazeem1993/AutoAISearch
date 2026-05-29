@@ -33,8 +33,11 @@ function getGeminiClient(): GoogleGenAI | null {
   return aiClient;
 }
 
-// Database JSON path
-const DB_PATH = path.join(process.cwd(), "db.json");
+// Database JSON path - Support Vercel serverless environment by using /tmp with a fallback copy
+const isVercel = !!process.env.VERCEL;
+const DB_PATH = isVercel
+  ? path.join("/tmp", "db.json")
+  : path.join(process.cwd(), "db.json");
 
 // Helper to encrypt/decrypt credentials mock-style (per prompt requirements of encryption)
 function encrypt(text: string): string {
@@ -226,6 +229,15 @@ EDUCATION & CREDENTIALS:
 function readDb(): DatabaseSchema {
   try {
     if (!fs.existsSync(DB_PATH)) {
+      if (isVercel) {
+        // Seed database from the workspace root compiled template if running in serverless
+        const templatePath = path.join(process.cwd(), "db.json");
+        if (fs.existsSync(templatePath)) {
+          const contents = fs.readFileSync(templatePath, "utf-8");
+          fs.writeFileSync(DB_PATH, contents, "utf-8");
+          return JSON.parse(contents);
+        }
+      }
       fs.writeFileSync(DB_PATH, JSON.stringify(defaultDb, null, 2), "utf-8");
       return defaultDb;
     }
@@ -691,4 +703,9 @@ async function startServer() {
   });
 }
 
-startServer();
+// Only start the listener if not in serverless environment
+if (!isVercel) {
+  startServer();
+}
+
+export default app;
