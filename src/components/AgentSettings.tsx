@@ -684,7 +684,7 @@ EDUCATION & CREDENTIALS:
               <input
                 type="range"
                 min="1"
-                max="20"
+                max="50"
                 value={localSettings.maxApplicationsPerDay}
                 onChange={(e) => setLocalSettings({ ...localSettings, maxApplicationsPerDay: parseInt(e.target.value) })}
                 className="grow cursor-pointer accent-[#1A6FD4]"

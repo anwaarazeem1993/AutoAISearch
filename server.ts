@@ -75,7 +75,7 @@ const defaultDb: DatabaseSchema = {
     },
     scanFrequency: "1h",
     autoApply: false,
-    maxApplicationsPerDay: 5,
+    maxApplicationsPerDay: 50,
     coverLetterPrompt: "Please write a professional, engaging, and brief cover letter of about 250 words that highlights my experience as a Quality Control (QC) Inspector, focusing on QA/QC inspections, blueprint reading, safety standards compliance, and precise technical reporting.",
     resumeFileName: "Anwaar_Azeem_QC_Inspector_CV.pdf",
     resumeText: `ANWAAR AZEEM

@@ -24,8 +24,8 @@
       }
     },
     "filters": {
-      "location": "London, UK (Remote or Hybrid)",
-      "country": "United Kingdom",
+      "location": "Riyadh, Jeddah, Mecca, Medina , Dammam, Jubail",
+      "country": "Saudi Arabia",
       "jobType": [
         "Full-time",
         "Remote"
@@ -41,7 +41,7 @@
     },
     "scanFrequency": "1h",
     "autoApply": false,
-    "maxApplicationsPerDay": 5,
+    "maxApplicationsPerDay": 50,
     "coverLetterPrompt": "Please write a professional, engaging, and brief cover letter of about 250 words that highlights my experience as a Quality Control (QC) Inspector, focusing on QA/QC inspections, blueprint reading, safety standards compliance, and precise technical reporting.",
     "resumeFileName": "Anwaar_Azeem_QC_Inspector_CV.pdf",
     "resumeText": "ANWAAR AZEEM\nEmail: anwaarazeem1993@gmail.com | Phone: +44 7700 900077 | London, UK\n\nPROFESSIONAL SUMMARY:\nHighly precise and detail-oriented Quality Control (QC) Inspector with over 5 years of hands-on experience in manufacturing, industrial assembly, and technical product inspections. Proven expertise in implementing rigorous QA/QC inspection regimes, ensuring absolute compliance with ISO 9001, AWS, and ASTM standards. Skilled in blueprint reading, precision measurement, and non-destructive testing (NDT). Strong track record of drafting detailed Non-Conformance Reports (NCR) and collaborating with engineering teams to minimize defects and optimize yield.\n\nCORE COMPETENCIES:\n- Quality Assurance & Quality Control (QA/QC) Processes\n- Technical Blueprint & CAD Drawing Interpretation\n- Technical Dimension Inspection (Calipers, Micrometers, Gauges)\n- Standard compliance: ISO 9001, ASME, ASTM, AWS D1.1\n- Non-Destructive Testing (NDT) (Liquid Penetrant Level I/II)\n- Defect Analysis, NCR Logging, and CAPA Root Cause Resolution\n- Calibration of Precision Instrumentation\n- Technical Quality Report Generation & Audit Support\n\nPROFESSIONAL EXPERIENCE:\nSenior QC Inspector | Apex Industrial Solutions, London, UK | 2023 - Present\n- Conduct thorough dimensional and visual inspections of mechanical components and structural fabrications checking alignment, tolerances, and weld safety in compliance with ASTM and AWS standards.\n- Reduced manufacturing defect rates by 18% through the implementation of a real-time statistical process control (SPC) analysis dashboard.\n- Authored, logged, and resolved over 250 NCRs (Non-Conformance Reports), conducting root-cause reviews under ISO 9001 protocols.\n- Coordinated closely with production managers to conduct pre-shipment inspections, securing 100% on-time product dispatch compliance.\n\nQuality Control Inspector | Vanguard Engineering, Manchester, UK | 2021 - 2023\n- Executed component inspections utilizing laser trackers, optical comparators, micrometers, and ultrasonic thickness gauges.\n- Review and verified incoming supplier material certifications, ensuring conformance with client contract specifications.\n- Assisted in internal quality system audits, preparing quality trackers and verifying gage calibration schedules.\n- Trained 4 new technicians on technical inspection procedures, safety compliance, and documentation frameworks.\n\nEDUCATION & CREDENTIALS:\n- Bachelor of Science in Mechanical/Industrial Engineering (or equivalent technical diploma)\n- ASQ Certified Quality Inspector (CQI)\n- AWS Certified Welding Inspector (CWI) - Candidate/Preparation\n- Trained in ISO 9001 Quality Management Systems"
